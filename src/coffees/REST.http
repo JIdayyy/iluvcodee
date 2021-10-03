@@ -1,0 +1,11 @@
+GET http://localhost:3000/coffees/
+###
+POST http://localhost:3000/coffees/
+Content-Type:  application/json
+
+{
+    "name":"eded",
+    "brand":"zaduozh",
+    "flavors":["fG","GQZRG"],
+   
+}
